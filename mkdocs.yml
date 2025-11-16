@@ -1,0 +1,22 @@
+site_name: Faded's Documentation
+site_description: 我的个人文档站点
+site_author: Faded
+
+# 主题配置
+theme:
+  name: material  # 推荐使用 material 主题
+
+# 插件
+plugins:
+  - search
+
+# 导航菜单
+nav:
+  - Home: index.md
+  - About: about.md
+
+# 额外配置
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Hycrich
