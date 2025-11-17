@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome to the Faded's
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This is a personal website for learning and sharing, and I am eagerly looking forward to you to contribute.
+In this website, I will share my learning notes and resources in CS and other courses that I'm used to be struggled for or now struggling for, and I will also share my personal projects and inspirations.
 
 ## Project layout
-
-    mkdocs.yml    # The configuration file.
+    mkdocs.yml                # The configuration file.
+    .github/
+        workflows/
+            build.yml
     docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        index.md              # The documentation homepage.
+        tutorials.md          # How to build your own simple Private Page.
+        about.md              # Background information.
+    site/                     # The static site.
