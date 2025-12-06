@@ -12,8 +12,8 @@ plugins:
 
 # 导航菜单
 nav:
-  - Home: index.md
-  - Tutorials: tutorials.md
+  - Home: docs/index.md
+  - Tutorials: docs/tutorials.md
   - Notes:
     - Computer System I: Notes/Computer_System_I.md
     - Computer System II: Notes/Computer_System_II.md
@@ -26,8 +26,8 @@ nav:
   - Projects: 
     - IPaper: Projects/IPaper.md
     - Literature: Projects/Literature.md
-  - Blog: blog.md
-  - About: about.md
+  - Blog: docs/blog.md
+  - About: docs/about.md
 
 # 额外配置
 extra:
