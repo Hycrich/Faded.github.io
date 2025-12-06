@@ -15,7 +15,7 @@ nav:
   - Home: index.md
   - Tutorials: tutorials.md
   - Notes:
-    - Computer System I: Notes/Compuer_System_I.md
+    - Computer System I: Notes/Computer_System_I.md
     - Computer System II: Notes/Computer_System_II.md
     - FDS: Notes/FDS.md
     - ADS: Notes/ADS.md
@@ -25,6 +25,7 @@ nav:
     - Commond Line: Notes/Commond_Line.md
   - Projects: 
     - IPaper: Projects/IPaper.md
+    - Literature: Projects/Literature.md
   - Blog: blog.md
   - About: about.md
 

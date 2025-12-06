@@ -1,7 +1,10 @@
 # Welcome to the Faded's
 
-This is a personal website for learning and sharing, and I am eagerly looking forward to you to contribute.
-In this website, I will share my learning notes and resources in CS and other courses that I'm used to be struggled for or now struggling for, and I will also share my personal projects and inspirations.
+欢迎访问 Faded 的个人资源网站！
+
+在这里，你可以看到我的笔记、资源、项目以及一些抽象、一些文艺等等内容。
+
+我会不定期更新这个网站，不断丰富内容，也很欢迎大家以协作者的身份共同作出贡献。
 
 ## Project layout
     mkdocs.yml
@@ -22,6 +25,14 @@ In this website, I will share my learning notes and resources in CS and other co
             Commond_Line.md
         Projects/
             IPaper.md
+            Literature.md
         blog.md
         about.md.
     site/
+
+## contribute and collaborate
+
+Currently, the repository is still a private one, and if you want to contribute, the only way is to be invited.
+
+If later, the repository is open to public, you can fork it and make a pull request. More specifically, you can try as follows.
+
