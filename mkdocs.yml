@@ -18,7 +18,9 @@ nav:
     - Computer System I: Notes/Computer_System_I.md
     - Computer System II: Notes/Computer_System_II.md
     - FDS: Notes/FDS.md
-    - ADS: Notes/ADS.md
+    - ADS: 
+      - Lecture: Notes/ADS/Lecture.md
+      - Homework: Notes/ADS/Homework.md
     - Discreted Math: Notes/Discreted_Math.md
     - General Physics I: Notes/General_Physics_I.md
     - General Physics II: Notes/General_Physics_II.md
