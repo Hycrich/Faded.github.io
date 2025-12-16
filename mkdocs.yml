@@ -12,7 +12,7 @@ plugins:
 
 # 导航菜单
 nav:
-  - Home: index.md
+  - Home: Homepage.md
   - Tutorials: tutorials.md
   - Notes:
     - Computer System I: Notes/Computer_System_I.md
